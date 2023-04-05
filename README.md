@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=828df5&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Luís+Felipe+Mori;I'm+21+years+old;I'm+from+Brazil;Systems+Analysis+and+Development+Student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
   <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luisfe0604&show_icons=true&count_private=true&hide_border=true&title_color=D0C5EF&icon_color=9796f0&text_color=fbc7d4&bg_color=0d1117" alt="Luís Felipe Mori github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfe0604&layout=compact&hide_border=true&title_color=D0C5EF&icon_color=9796f0&text_color=fbc7d4&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luisfe0604&show_icons=true&count_private=true&hide_border=true&title_color=BDD5EA&icon_color=BDD5EA&text_color=BDD5EA&bg_color=0C0F0A" alt="Luís Felipe Mori github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfe0604&layout=compact&hide_border=true&title_color=BDD5EA&icon_color=BDD5EA&text_color=BDD5EA&bg_color=0C0F0A" />
 </div>
   
 </div>
