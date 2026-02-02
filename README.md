@@ -35,11 +35,12 @@ Currently, I work as a **freelance developer**, developing fullstack application
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luisfe0604&show_icons=true&hide_border=true&theme=default&cache_seconds=86400)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisfe0604&layout=compact&hide_border=true&theme=default&cache_seconds=86400)
+- Active freelance developer
+- Experience with fullstack applications
+- Focus on clean code and scalable solutions
+- Consistent contribution to personal and client projects
 
 ---
 
