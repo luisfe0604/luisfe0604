@@ -1,6 +1,6 @@
 # Luís Felipe Mori
 
-💻 Software Developer | Systems Analysis and Development  
+Software Developer | Systems Analysis and Development  
 🇧🇷 Brazil
 
 ---
@@ -37,10 +37,9 @@ Currently, I work as a **freelance developer**, developing fullstack application
 
 ## GitHub Stats
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=luisfe0604&show_icons=true&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfe0604&layout=compact&hide_border=true" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luisfe0604&show_icons=true&hide_border=true&theme=default&cache_seconds=86400)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisfe0604&layout=compact&hide_border=true&theme=default&cache_seconds=86400)
 
 ---
 
